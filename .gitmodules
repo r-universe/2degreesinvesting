@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/2degreesinvesting/universe
 	shallow = true
 	branch = HEAD
+[submodule "r2dii.interactive"]
+	path = r2dii.interactive
+	url = https://github.com/2DegreesInvesting/r2dii.interactive
+	shallow = true
+	registered = true

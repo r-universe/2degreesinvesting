@@ -8,3 +8,8 @@
 	url = https://github.com/2DegreesInvesting/r2dii.interactive
 	shallow = true
 	registered = true
+[submodule "r2diitemplate"]
+	path = r2diitemplate
+	url = https://github.com/2DegreesInvesting/r2diitemplate
+	shallow = true
+	registered = false

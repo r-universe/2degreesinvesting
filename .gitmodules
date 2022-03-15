@@ -53,3 +53,8 @@
 	url = https://github.com/2DegreesInvesting/r2dii.banks
 	shallow = true
 	registered = true
+[submodule "janitor"]
+	path = janitor
+	url = https://github.com/sfirke/janitor
+	shallow = true
+	registered = false

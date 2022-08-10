@@ -32,5 +32,11 @@
   },
   {
     "package": "r2dii.banks"
+  },
+  {
+    "package": "pacta.data.preparation"
+  },
+  {
+    "package": "pacta.portfolio.analysis"
   }
 ]

@@ -53,6 +53,16 @@
 	url = https://github.com/2DegreesInvesting/r2dii.banks
 	shallow = true
 	registered = true
+[submodule "pacta.data.preparation"]
+	path = pacta.data.preparation
+	url = https://github.com/2DegreesInvesting/pacta.data.preparation
+	shallow = true
+	registered = true
+[submodule "pacta.portfolio.analysis"]
+	path = pacta.portfolio.analysis
+	url = https://github.com/2DegreesInvesting/pacta.portfolio.analysis
+	shallow = true
+	registered = true
 [submodule "janitor"]
 	path = janitor
 	url = https://github.com/sfirke/janitor

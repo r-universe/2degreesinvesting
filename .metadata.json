@@ -4,7 +4,7 @@
   },
   {
     "package": "r2dii.data",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "r2dii.plot",

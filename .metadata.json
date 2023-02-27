@@ -1,42 +1,8 @@
 [
   {
-    "package": "r2dii.interactive"
+    "package": "hello.world"
   },
   {
-    "package": "r2dii.data",
-    "oncran": false
-  },
-  {
-    "package": "r2dii.plot",
-    "oncran": true
-  },
-  {
-    "package": "r2dii.climate.stress.test"
-  },
-  {
-    "package": "r2dii.analysis",
-    "oncran": false
-  },
-  {
-    "package": "r2dii.match",
-    "oncran": false
-  },
-  {
-    "package": "r2dii.physical.risk"
-  },
-  {
-    "package": "r2dii.colours"
-  },
-  {
-    "package": "r2dii.utils"
-  },
-  {
-    "package": "r2dii.banks"
-  },
-  {
-    "package": "pacta.data.preparation"
-  },
-  {
-    "package": "pacta.portfolio.analysis"
+    "package": "tilt.company.match"
   }
 ]

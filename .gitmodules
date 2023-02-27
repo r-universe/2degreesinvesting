@@ -13,13 +13,3 @@
 	url = https://github.com/2DegreesInvesting/tilt.company.match
 	shallow = true
 	registered = true
-[submodule "janitor"]
-	path = janitor
-	url = https://github.com/sfirke/janitor
-	shallow = true
-	registered = false
-[submodule "r2dii.utils"]
-	path = r2dii.utils
-	url = https://github.com/2DegreesInvesting/r2dii.utils
-	shallow = true
-	registered = false

@@ -4,5 +4,11 @@
     "url": "https://github.com/2DegreesInvesting/tiltIndicator",
     "via": ["tiltToyData"],
     "from": "tiltToyData"
+  },
+  {
+    "package": "tiltToyData",
+    "url": "https://github.com/2degreesinvesting/tiltToyData",
+    "via": ["tiltIndicator"],
+    "from": "tiltIndicator"
   }
 ]

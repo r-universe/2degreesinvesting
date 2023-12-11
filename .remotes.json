@@ -2,6 +2,12 @@
   {
     "package": "tiltIndicator",
     "url": "https://github.com/2DegreesInvesting/tiltIndicator",
+    "via": ["tiltIndicatorAfter"],
+    "from": "tiltIndicatorAfter"
+  },
+  {
+    "package": "tiltIndicator",
+    "url": "https://github.com/2DegreesInvesting/tiltIndicator",
     "via": ["tiltToyData"],
     "from": "tiltToyData"
   },
@@ -10,5 +16,11 @@
     "url": "https://github.com/2degreesinvesting/tiltToyData",
     "via": ["tiltIndicator"],
     "from": "tiltIndicator"
+  },
+  {
+    "package": "tiltToyData",
+    "url": "https://github.com/2degreesinvesting/tiltToyData",
+    "via": ["tiltIndicatorAfter", "tiltIndicator"],
+    "from": "tiltIndicatorAfter"
   }
 ]

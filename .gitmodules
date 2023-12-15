@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/2degreesinvesting/2degreesinvesting.r-universe.dev
 	branch = HEAD
+[submodule "dchunkr"]
+	path = dchunkr
+	url = https://github.com/maurolepore/dchunkr
+	registered = false
 [submodule "hello.world"]
 	path = hello.world
 	url = https://github.com/2DegreesInvesting/hello.world

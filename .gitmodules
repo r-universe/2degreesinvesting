@@ -1,15 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/2degreesinvesting/2degreesinvesting.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "hello.world"]
 	path = hello.world
 	url = https://github.com/2DegreesInvesting/hello.world
-	shallow = true
-	registered = true
 [submodule "tilt.company.match"]
 	path = tilt.company.match
 	url = https://github.com/2DegreesInvesting/tilt.company.match
-	shallow = true
-	registered = true
+[submodule "tiltIndicator"]
+	path = tiltIndicator
+	url = https://github.com/2DegreesInvesting/tiltIndicator
+[submodule "tiltIndicatorAfter"]
+	path = tiltIndicatorAfter
+	url = https://github.com/2DegreesInvesting/tiltIndicatorAfter
+[submodule "tiltToyData"]
+	path = tiltToyData
+	url = https://github.com/2DegreesInvesting/tiltToyData
+[submodule "tiltWorkflows"]
+	path = tiltWorkflows
+	url = https://github.com/2DegreesInvesting/tiltWorkflows

@@ -6,9 +6,6 @@
 	path = dchunkr
 	url = https://github.com/maurolepore/dchunkr
 	registered = false
-[submodule "hello.world"]
-	path = hello.world
-	url = https://github.com/2DegreesInvesting/hello.world
 [submodule "tilt.company.match"]
 	path = tilt.company.match
 	url = https://github.com/2DegreesInvesting/tilt.company.match
@@ -18,6 +15,9 @@
 [submodule "tiltIndicatorAfter"]
 	path = tiltIndicatorAfter
 	url = https://github.com/2DegreesInvesting/tiltIndicatorAfter
+[submodule "tiltRequirements"]
+	path = tiltRequirements
+	url = https://github.com/2DegreesInvesting/tiltRequirements
 [submodule "tiltToyData"]
 	path = tiltToyData
 	url = https://github.com/2DegreesInvesting/tiltToyData

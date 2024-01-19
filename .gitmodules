@@ -9,18 +9,24 @@
 [submodule "tilt.company.match"]
 	path = tilt.company.match
 	url = https://github.com/2DegreesInvesting/tilt.company.match
+	branch = main
 [submodule "tiltIndicator"]
 	path = tiltIndicator
 	url = https://github.com/2DegreesInvesting/tiltIndicator
+	branch = main
 [submodule "tiltIndicatorAfter"]
 	path = tiltIndicatorAfter
 	url = https://github.com/2DegreesInvesting/tiltIndicatorAfter
+	branch = main
 [submodule "tiltRequirements"]
 	path = tiltRequirements
 	url = https://github.com/2DegreesInvesting/tiltRequirements
+	branch = *release
 [submodule "tiltToyData"]
 	path = tiltToyData
 	url = https://github.com/2DegreesInvesting/tiltToyData
+	branch = main
 [submodule "tiltWorkflows"]
 	path = tiltWorkflows
 	url = https://github.com/2DegreesInvesting/tiltWorkflows
+	branch = main

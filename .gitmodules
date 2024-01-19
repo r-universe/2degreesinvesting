@@ -21,7 +21,7 @@
 [submodule "tiltRequirements"]
 	path = tiltRequirements
 	url = https://github.com/2DegreesInvesting/tiltRequirements
-	branch = *release
+	branch = v0.0.1
 [submodule "tiltToyData"]
 	path = tiltToyData
 	url = https://github.com/2DegreesInvesting/tiltToyData

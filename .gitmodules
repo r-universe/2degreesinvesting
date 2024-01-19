@@ -13,7 +13,7 @@
 [submodule "tiltIndicator"]
 	path = tiltIndicator
 	url = https://github.com/2DegreesInvesting/tiltIndicator
-	branch = main
+	branch = v0.0.0.9200
 [submodule "tiltIndicatorAfter"]
 	path = tiltIndicatorAfter
 	url = https://github.com/2DegreesInvesting/tiltIndicatorAfter
@@ -25,7 +25,7 @@
 [submodule "tiltToyData"]
 	path = tiltToyData
 	url = https://github.com/2DegreesInvesting/tiltToyData
-	branch = main
+	branch = v0.0.0.9200
 [submodule "tiltWorkflows"]
 	path = tiltWorkflows
 	url = https://github.com/2DegreesInvesting/tiltWorkflows

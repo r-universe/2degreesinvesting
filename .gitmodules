@@ -13,7 +13,7 @@
 [submodule "tiltIndicator"]
 	path = tiltIndicator
 	url = https://github.com/2DegreesInvesting/tiltIndicator
-	branch = v0.0.0.9200
+	branch = v0.0.0.9201
 [submodule "tiltIndicatorAfter"]
 	path = tiltIndicatorAfter
 	url = https://github.com/2DegreesInvesting/tiltIndicatorAfter

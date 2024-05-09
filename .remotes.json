@@ -6,6 +6,12 @@
     "from": "tiltWorkflows"
   },
   {
+    "package": "tiltAddCO2",
+    "url": "https://github.com/2DegreesInvesting/tiltAddCO2",
+    "via": ["tiltIndicatorAfter"],
+    "from": "tiltIndicatorAfter"
+  },
+  {
     "package": "tiltIndicator",
     "url": "https://github.com/2DegreesInvesting/tiltIndicator",
     "via": ["tiltIndicatorAfter"],

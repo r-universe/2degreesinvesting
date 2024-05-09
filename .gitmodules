@@ -10,6 +10,10 @@
 	path = tilt.company.match
 	url = https://github.com/2DegreesInvesting/tilt.company.match
 	branch = main
+[submodule "tiltAddCO2"]
+	path = tiltAddCO2
+	url = https://github.com/2DegreesInvesting/tiltAddCO2
+	registered = false
 [submodule "tiltIndicator"]
 	path = tiltIndicator
 	url = https://github.com/2DegreesInvesting/tiltIndicator

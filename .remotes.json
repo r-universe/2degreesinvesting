@@ -52,5 +52,11 @@
     "url": "https://github.com/2degreesinvesting/tiltToyData",
     "via": ["tiltWorkflows", "tiltIndicatorAfter", "tiltIndicator"],
     "from": "tiltWorkflows"
+  },
+  {
+    "package": "tiltTransitionRisk",
+    "url": "https://github.com/2degreesinvesting/tiltTransitionRisk",
+    "via": ["tiltIndicatorAfter"],
+    "from": "tiltIndicatorAfter"
   }
 ]

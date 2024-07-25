@@ -22,6 +22,10 @@
 	path = tiltIndicatorAfter
 	url = https://github.com/2DegreesInvesting/tiltIndicatorAfter
 	branch = main
+[submodule "tiltPolish"]
+	path = tiltPolish
+	url = https://github.com/2degreesinvesting/tiltPolish
+	registered = false
 [submodule "tiltRequirements"]
 	path = tiltRequirements
 	url = https://github.com/2DegreesInvesting/tiltRequirements

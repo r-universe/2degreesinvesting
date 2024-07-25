@@ -36,6 +36,12 @@
     "from": "tiltWorkflows"
   },
   {
+    "package": "tiltPolish",
+    "url": "https://github.com/2degreesinvesting/tiltPolish",
+    "via": ["tiltIndicatorAfter"],
+    "from": "tiltIndicatorAfter"
+  },
+  {
     "package": "tiltToyData",
     "url": "https://github.com/2degreesinvesting/tiltToyData",
     "via": ["tiltIndicator"],

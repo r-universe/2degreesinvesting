@@ -12,6 +12,12 @@
     "from": "tiltIndicatorAfter"
   },
   {
+    "package": "tiltAddCO2",
+    "url": "https://github.com/2DegreesInvesting/tiltAddCO2",
+    "via": ["tiltWorkflows", "tiltIndicatorAfter"],
+    "from": "tiltWorkflows"
+  },
+  {
     "package": "tiltIndicator",
     "url": "https://github.com/2DegreesInvesting/tiltIndicator",
     "via": ["tiltIndicatorAfter"],
@@ -42,6 +48,12 @@
     "from": "tiltIndicatorAfter"
   },
   {
+    "package": "tiltPolish",
+    "url": "https://github.com/2degreesinvesting/tiltPolish",
+    "via": ["tiltWorkflows", "tiltIndicatorAfter"],
+    "from": "tiltWorkflows"
+  },
+  {
     "package": "tiltToyData",
     "url": "https://github.com/2degreesinvesting/tiltToyData",
     "via": ["tiltIndicator"],
@@ -64,5 +76,11 @@
     "url": "https://github.com/2degreesinvesting/tiltTransitionRisk",
     "via": ["tiltIndicatorAfter"],
     "from": "tiltIndicatorAfter"
+  },
+  {
+    "package": "tiltTransitionRisk",
+    "url": "https://github.com/2degreesinvesting/tiltTransitionRisk",
+    "via": ["tiltWorkflows", "tiltIndicatorAfter"],
+    "from": "tiltWorkflows"
   }
 ]

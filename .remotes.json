@@ -20,7 +20,7 @@
   {
     "package": "tiltIndicator",
     "url": "https://github.com/2DegreesInvesting/tiltIndicator",
-    "via": ["tiltIndicatorAfter"],
+    "via": ["tiltIndicatorAfter", "tiltAddCO2"],
     "from": "tiltIndicatorAfter"
   },
   {
@@ -62,7 +62,7 @@
   {
     "package": "tiltToyData",
     "url": "https://github.com/2degreesinvesting/tiltToyData",
-    "via": ["tiltIndicatorAfter", "tiltIndicator"],
+    "via": ["tiltIndicatorAfter", "tiltAddCO2", "tiltIndicator"],
     "from": "tiltIndicatorAfter"
   },
   {

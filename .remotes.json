@@ -32,7 +32,7 @@
   {
     "package": "tiltIndicator",
     "url": "https://github.com/2DegreesInvesting/tiltIndicator",
-    "via": ["tiltWorkflows", "tiltIndicatorAfter"],
+    "via": ["tiltWorkflows", "tiltIndicatorAfter", "tiltAddCO2"],
     "from": "tiltWorkflows"
   },
   {
@@ -68,7 +68,7 @@
   {
     "package": "tiltToyData",
     "url": "https://github.com/2degreesinvesting/tiltToyData",
-    "via": ["tiltWorkflows", "tiltIndicatorAfter", "tiltIndicator"],
+    "via": ["tiltWorkflows", "tiltIndicatorAfter", "tiltAddCO2", "tiltIndicator"],
     "from": "tiltWorkflows"
   },
   {

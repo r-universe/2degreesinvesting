@@ -42,12 +42,6 @@
     "from": "tiltWorkflows"
   },
   {
-    "package": "tiltPolish",
-    "url": "https://github.com/2degreesinvesting/tiltPolish",
-    "via": ["tiltWorkflows", "tiltIndicatorAfter"],
-    "from": "tiltWorkflows"
-  },
-  {
     "package": "tiltToyData",
     "url": "https://github.com/2degreesinvesting/tiltToyData",
     "via": ["tiltIndicator"],
@@ -63,12 +57,6 @@
     "package": "tiltToyData",
     "url": "https://github.com/2degreesinvesting/tiltToyData",
     "via": ["tiltWorkflows", "tiltIndicatorAfter", "tiltAddCO2", "tiltIndicator"],
-    "from": "tiltWorkflows"
-  },
-  {
-    "package": "tiltTransitionRisk",
-    "url": "https://github.com/2degreesinvesting/tiltTransitionRisk",
-    "via": ["tiltWorkflows", "tiltIndicatorAfter"],
     "from": "tiltWorkflows"
   }
 ]
